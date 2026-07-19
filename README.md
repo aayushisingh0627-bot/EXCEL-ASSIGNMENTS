@@ -1,162 +1,259 @@
-# EX01
-First assignment for Excel mastery 
-# Excel Module Assignment
+# Microsoft Excel Analytics Assignment Portfolio
 
 ## Overview
 
-This repository contains my completed submission for the **Excel Practical Assignment**, covering the core concepts of Microsoft Excel used in data analysis, data cleaning, reporting, and automation.
+This repository contains my completed submissions for three practical Microsoft Excel assignments focused on **Business Analytics**, **HR Analytics**, and **Operations Analytics**. Each project demonstrates the application of Excel for data cleaning, data analysis, visualization, reporting, and business decision-making using real-world datasets.
 
-The assignment was completed using the provided Sample Superstore dataset and consists of practical exercises designed to strengthen Excel proficiency through real-world business scenarios.
-
----
-
-## Assignment Objectives
-
-The purpose of this assignment was to gain hands-on experience with:
-
-- Excel formulas and functions
-- Data formatting and presentation
-- Sorting and filtering
-- Date and time calculations
-- Logical functions
-- Data cleaning techniques
-- Pivot Tables
-- Lookup functions
-- Conditional aggregation
-- Conditional formatting
-- Report consolidation
-- Basics of VBA Macros
+The assignments were completed as part of an Excel Analytics learning program and cover a broad range of Excel concepts—from basic formulas to Pivot Tables, dashboards, and analytical problem-solving.
 
 ---
 
-## Topics Covered
+# Repository Structure
 
-### Section 1 – Excel Basics
+```
+├── Excel Module Assignment/
+│   ├── Excel Assignment.xlsx
+│   └── Supporting Files
+│
+├── HR Analytics - Adecco/
+│   ├── HR Analytics.xlsx
+│   └── Supporting Files
+│
+├── Porter Delivery Analysis/
+│   ├── Porter Analysis.xlsx
+│   └── Supporting Files
+│
+└── README.md
+```
+
+---
+
+# Project 1 – Excel Module Assignment
+
+### Objective
+
+Develop practical proficiency in Microsoft Excel by completing exercises covering formulas, formatting, data cleaning, Pivot Tables, lookup functions, reporting, and VBA basics.
+
+### Topics Covered
+
+- Basic Excel Functions
 - SUM, MAX, MIN, SMALL, LARGE, MEDIAN
-- TRANSPOSE
 - COUNT, COUNTA, COUNTBLANK
-- Status Bar Calculations
-- Year-over-Year Growth
-- POWER Formula (CAGR)
+- TRANSPOSE
+- Growth Percentage & CAGR
+- Formatting & Conditional Formatting
+- Sorting & Filtering
+- Date & Time Functions
+- IF, AND, OR, IFERROR
+- Data Cleaning
+- Text Functions
+- Pivot Tables
+- VLOOKUP & HLOOKUP
+- COUNTIF, SUMIF, AVERAGEIF
+- COUNTIFS & SUMIFS
+- Report Consolidation
+- SUBTOTAL
+- VBA & Macros Basics
 
-### Section 2 – Formatting
-- Cell Formatting
-- Number Formatting
-- Wrap Text & Alignment
-- Format Painter
+### Skills Demonstrated
 
-### Section 3 – Sort & Filter
-- Sorting Numbers
-- Sorting Dates
-- Alphabetical Sorting
-- Sorting by Cell Color
-- Multi-Level Sorting
+- Excel Formula Writing
+- Data Cleaning
+- Reporting
+- Pivot Table Analysis
+- Business Calculations
+- Workbook Management
 
-### Section 4 – Working with Dates
-- Date Functions
-- DATEDIF
-- TODAY
-- DATE
-- YEAR, MONTH, DAY
+---
 
-### Section 5 – Logical Functions
+# Project 2 – HR Analytics (Adecco India)
+
+### Objective
+
+Analyze employee data to identify factors contributing to employee attrition and provide actionable recommendations to improve employee retention and engagement.
+
+### Analysis Performed
+
+- Overall Attrition Rate
+- Department-wise Attrition
+- Gender-wise Analysis
+- Job Satisfaction Analysis
+- Monthly Income Analysis
+- Overtime Analysis
+- Employee Tenure Analysis
+- Performance Analysis
+- Work-Life Balance
+- Training Impact
+- Business Travel Analysis
+- Promotion Analysis
+- Correlation Analysis
+
+### Excel Features Used
+
+- Pivot Tables
+- Pivot Charts
+- COUNTIF / COUNTIFS
+- SUMIF / SUMIFS
+- AVERAGEIF
+- Conditional Formatting
+- Scatter Charts
+- Histograms
+- Trendlines
+
+### Business Outcomes
+
+- Identify departments with high attrition
+- Understand employee satisfaction drivers
+- Recommend HR retention strategies
+- Support data-driven workforce planning
+
+---
+
+# Project 3 – Porter Delivery Time Analysis
+
+### Objective
+
+Analyze operational delivery data to identify factors affecting food delivery times and improve customer satisfaction through data-driven insights.
+
+### Analysis Performed
+
+- Market-wise Order Volume
+- Delivery Time Analysis
+- Peak Ordering Hours
+- Day-wise Performance
+- Store Category Analysis
+- Partner Availability
+- Delivery Efficiency
+- Order Complexity Analysis
+- Delivery Time Distribution
+- Order Protocol Comparison
+- Market Performance Analysis
+- Operational Bottleneck Identification
+
+### Excel Features Used
+
+- Pivot Tables
+- Pivot Charts
+- Date & Time Functions
+- Correlation Analysis
+- Scatter Plots
+- Histograms
+- Conditional Formatting
+- Trendlines
+
+### Business Outcomes
+
+- Improve delivery efficiency
+- Optimize staffing
+- Reduce delivery delays
+- Enhance customer satisfaction
+- Support operational decision-making
+
+---
+
+# Excel Skills Demonstrated
+
+## Data Analysis
+
+- Data Cleaning
+- Data Transformation
+- Data Validation
+- Data Aggregation
+- Statistical Analysis
+- Correlation Analysis
+
+## Excel Functions
+
+- SUM
+- AVERAGE
+- COUNT
+- COUNTIF
+- COUNTIFS
+- SUMIF
+- SUMIFS
 - IF
+- IFERROR
 - AND
 - OR
-- IFERROR
-- Combined Logical Operations
-
-### Section 6 – Data Cleaning
-- Remove Duplicates
-- Text Functions
-  - UPPER
-  - LOWER
-  - PROPER
-  - TRIM
-  - VALUE
-  - LEN
-  - LEFT
-  - RIGHT
-  - MID
-- SEARCH vs FIND
-- Go To Special
-- Text to Columns
-- CONCATENATE
-- Find & Replace
-
-### Section 7 – Pivot Tables
-- Pivot Table Creation
-- Grouping
-- Date Grouping
-- Conditional Formatting
-- Custom Grouping
-
-### Section 8 – Lookup Functions
 - VLOOKUP
 - HLOOKUP
-- Exact & Approximate Match
-- IFERROR with Lookups
+- INDEX & MATCH Concepts
+- Date Functions
+- Text Functions
 
-### Section 9 – Conditional Aggregation
-- COUNTIF
-- SUMIF
-- AVERAGEIF
-- COUNTIFS
-- SUMIFS
+## Data Visualization
 
-### Section 10 – Conditional Formatting
-- Highlight Rules
-- Color Scales
-- Data Bars
-- Icon Sets
+- Pivot Charts
+- Bar Charts
+- Column Charts
+- Scatter Plots
+- Histograms
+- Conditional Formatting
+- Trendlines
 
-### Section 11 – Report Consolidation
-- Consolidate Feature
-- SUM Consolidation
-- SUBTOTAL
+## Reporting
 
-### Section 12 – VBA Basics
-- VBA Introduction
-- Developer Tab
-- Recording Macros
-- Running Macros
-- VBA Workspace
+- Pivot Tables
+- Dashboard Components
+- KPI Reporting
+- Summary Reports
+- Business Insights
 
 ---
 
-## Files Included
-
-- Excel Assignment Workbook (.xlsx)
-- Supporting files (if applicable)
-- README.md
-
----
-
-## Tools Used
+# Tools Used
 
 - Microsoft Excel
 - Pivot Tables
-- Excel Functions & Formulas
-- VBA (Basics)
+- Pivot Charts
+- Conditional Formatting
+- Excel Formulas & Functions
+- Data Cleaning Techniques
+- Business Analytics
 
 ---
 
-## Dataset
+# Learning Outcomes
 
-The assignment uses the **Sample Superstore Sales Dataset** provided as part of the course assignment.
+Through these assignments, I gained hands-on experience in:
+
+- Microsoft Excel for Business Analytics
+- HR Analytics
+- Operations Analytics
+- Data Cleaning & Preparation
+- Exploratory Data Analysis (EDA)
+- Pivot Table Reporting
+- Dashboard Creation
+- KPI Development
+- Business Intelligence Reporting
+- Data Visualization
+- Problem Solving with Excel
+- Data-Driven Decision Making
 
 ---
 
-## Learning Outcomes
+# Repository Purpose
 
-Through this assignment, I gained practical experience in:
+This repository serves as a portfolio showcasing practical applications of Microsoft Excel in solving real-world business problems across multiple domains, including:
 
-- Working with large datasets
-- Applying Excel formulas efficiently
-- Cleaning and transforming data
-- Building Pivot Table reports
-- Performing lookup operations
-- Creating business-ready reports
-- Understanding Excel automation using VBA
+- Business Analytics
+- Human Resources Analytics
+- Operations & Logistics Analytics
+
+The projects demonstrate proficiency in transforming raw data into meaningful insights that support strategic decision-making.
 
 ---
+
+# Author
+
+**Name:** *Your Name*
+
+**GitHub:** https://github.com/yourusername
+
+**LinkedIn:** https://linkedin.com/in/yourprofile *(Optional)*
+
+---
+
+## License
+
+This repository is created for educational purposes as part of coursework and portfolio development.
