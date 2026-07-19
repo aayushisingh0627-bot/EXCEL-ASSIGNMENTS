@@ -117,6 +117,7 @@ Analyze operational delivery data to identify factors affecting food delivery ti
 
 ### Analysis Performed
 
+- Performed-Dataset cleaning
 - Market-wise Order Volume
 - Delivery Time Analysis
 - Peak Ordering Hours
@@ -241,16 +242,6 @@ This repository serves as a portfolio showcasing practical applications of Micro
 - Operations & Logistics Analytics
 
 The projects demonstrate proficiency in transforming raw data into meaningful insights that support strategic decision-making.
-
----
-
-# Author
-
-**Name:** *Your Name*
-
-**GitHub:** https://github.com/yourusername
-
-**LinkedIn:** https://linkedin.com/in/yourprofile *(Optional)*
 
 ---
 
